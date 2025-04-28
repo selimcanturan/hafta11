@@ -6,9 +6,7 @@ import chromedriver_autoinstaller
 chromedriver_autoinstaller.install()
  
 driver = webdriver.Chrome()
-# class url:
-#     def __init__(self, url):
-#         self.url = url
+
 class scrap:
     def __init__(self):
  
